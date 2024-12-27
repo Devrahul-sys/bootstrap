@@ -1,0 +1,19 @@
+div{
+    background-color: aqua;
+}
+
+
+
+@media only screen and (max-width:320px;) {
+    dev{
+        background-color: black;
+    }
+}
+
+
+
+@media only screen and (max-width:px;) {
+    dev{
+        background-color: black;
+    }
+}
